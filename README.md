@@ -1,16 +1,22 @@
 # google_maps_in_flutter
 
-A new Flutter project.
+A sample Flutter project integrating the Google Maps API.
+
+![demo](./images/demo.png)
+
+## Overview
+
+This project demonstrates how to integrate Google Maps API into a Flutter application, providing an example for developers to use as a reference.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If this is your first Flutter project, here are some helpful resources to get you started:
 
-A few resources to get you started if this is your first Flutter project:
+- [Google Maps for Flutter](https://developers.google.com/maps/flutter-package/overview)
+- [google_maps_flutter](https://pub.dev/packages/google_maps_flutter)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Google Maps integration.
+- Example use cases for map-based functionalities.
+- Palce api sample.
